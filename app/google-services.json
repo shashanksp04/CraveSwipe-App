@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "613526218053",
+    "firebase_url": "https://cmsc436-final-project-55726-default-rtdb.firebaseio.com",
+    "project_id": "cmsc436-final-project-55726",
+    "storage_bucket": "cmsc436-final-project-55726.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613526218053:android:4b23fab6e9d3ffa6144a2c",
+        "android_client_info": {
+          "package_name": "com.example.craveswipev11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRrgawTgGhMkZ-NoEg2L4K2ZvdIM9PZX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
