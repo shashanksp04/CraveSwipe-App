@@ -23,12 +23,16 @@ CraveSwipe transforms the way users explore dining options by offering one resta
 
 ## 📸 Screenshots
 
+### App Icon
 ![App Icon](screenshots/App%20Icon.png)
 
+### Home/Preference Screen
 ![Preferences Screen](screenshots/Home%20Page.png)
 
+### Selection/Swipe Screen
 ![Swipe Screen](screenshots/Selection%20Page.png)
 
+### Recommendations Screen
 ![Favorites View](screenshots/Recommendations%20Page.png)
 
 
