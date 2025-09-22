@@ -23,13 +23,10 @@ CraveSwipe transforms the way users explore dining options by offering one resta
 
 ## 📸 Screenshots
 
-> Add screenshots to the `/screenshots/` folder and update these links:
-
-```markdown
-![Preferences Screen](screenshots/preferences_screen.png)
-![Swipe Screen](screenshots/swipe_screen.png)
-![Favorites View](screenshots/favorites_screen.png)
-```
+![App Icon](screenshots/App Icon.png)
+![Preferences Screen](screenshots/Home Page.png)
+![Swipe Screen](screenshots/Selection Page.png)
+![Favorites View](screenshots/Recommendations Page.png)
 
 ## 🧑‍💻 Tech Stack
 
