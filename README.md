@@ -36,8 +36,7 @@ CraveSwipe transforms the way users explore dining options by offering one resta
 ![Favorites View](screenshots/Recommendations%20Page.png)
 
 
-[Demo Video](https://github.com/user-attachments/assets/0f60bdda-56f0-460b-84d9-f4367bda9683)
-
+https://github.com/user-attachments/assets/42fbbb92-5167-499f-bbb0-8426a10a6f78
 
 
 ## 🧑‍💻 Tech Stack
