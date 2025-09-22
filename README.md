@@ -36,6 +36,10 @@ CraveSwipe transforms the way users explore dining options by offering one resta
 ![Favorites View](screenshots/Recommendations%20Page.png)
 
 
+[Demo Video](https://github.com/user-attachments/assets/0f60bdda-56f0-460b-84d9-f4367bda9683)
+
+
+
 ## 🧑‍💻 Tech Stack
 
 - **Language**: Kotlin  
@@ -68,10 +72,10 @@ CraveSwipe transforms the way users explore dining options by offering one resta
 
 ## 👥 The Team
 
+- Shashank
 - Arjun  
-- Shashank  
 - Suyash  
-- Maukha  
+- Mayukha  
 
 ---
 
